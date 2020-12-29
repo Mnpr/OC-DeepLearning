@@ -12,7 +12,7 @@ This repository contains Projectwork :arrow_down: undertaken for the partial ful
 
 - [ ] Exploartion of Application Domain Challenges
   
-  - [x] [Class Imabalance Problem | Solution](https://github.com/Mnpr/OC-DeepLearning/blob/main/Project/ClassImbalanceExploration.ipynb)
+  - [x] [Class Imabalance Problem | Solution](https://github.com/Mnpr/OC-DeepLearning/blob/main/Challenges.ipynb)
 
 - [ ] Simple Classifier ( Binary )
 
