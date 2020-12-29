@@ -72,9 +72,10 @@ download = """
 '---....____           ````'''--;  ,'
             ````''''----....____|.'
 
-\t\t It may Take a while ........ c[_] \n
+\t\t It may Take a while ........ c[_]
 
 """
+print(download)
 
 # Download the zip files in Images(png) in batches
 for idx, link in enumerate(links):
@@ -100,5 +101,4 @@ MD5:\n
 \tdc9fda1757c2de0032b63347a7d2895c images_012.tar.gz
 --------------------------------------------------------------
 """
-
 print(checksum)
