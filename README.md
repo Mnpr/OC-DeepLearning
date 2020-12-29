@@ -9,14 +9,28 @@ This repository contains Projectwork :arrow_down: undertaken for the partial ful
 - [x] Exploration of Datasets
 
 - [ ] Data Preprocessing
-
-- [ ] Exploartion of Application Domain Challenges
   
-  - [x] [Class Imabalance Problem | Solution](https://github.com/Mnpr/OC-DeepLearning/blob/main/Challenges.ipynb)
+  - [ ] Custom Dataset (torch.utils.data.Dataset)
+  
+  - [ ] Preprocessing
+  
+  - [ ] DataLoader
+
+- [ ] [Exploartion of Application Domain Challenges](https://github.com/Mnpr/OC-DeepLearning/blob/main/Challenges.ipynb)
+  
+  - [x] Class Imabalance Problem
+  - [ ] Patient Overlap
+  - [ ] Dataset size
 
 - [ ] Simple Classifier ( Binary )
 
 - [ ] Multi-class Classifier
+
+- [ ] Transfer Learning
+  
+  - [ ] Densenet 121
+
+- [ ] SOTA Candidate model Exploration
 
 ---
 
