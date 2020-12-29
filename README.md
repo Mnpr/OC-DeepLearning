@@ -1,5 +1,25 @@
 This repository contains Projectwork :arrow_down: undertaken for the partial fulfillment of Deep Learning Module and ETCS Creditpoints @OpenCampus.sh.
 
+---
+
+**<u>Implementation Status</u>**
+
+- [x] Dataset Selection
+
+- [x] Exploration of Datasets
+
+- [ ] Data Preprocessing
+
+- [ ] Exploartion of Application Domain Challenges
+  
+  - [x] [Class Imabalance Problem | Solution](https://github.com/Mnpr/OC-DeepLearning/blob/main/Project/ClassImbalanceExploration.ipynb)
+
+- [ ] Simple Classifier ( Binary )
+
+- [ ] Multi-class Classifier
+
+---
+
 # Medical Radiology Assistance ( Chest X-ray )
 
 **Objective :** To train and explore Deep learning models for Medical Radiology Assistance ( Classification and Detection of  Thorax Diseases) using Chest X-ray datasets.
@@ -51,6 +71,4 @@ This repository contains Projectwork :arrow_down: undertaken for the partial ful
 
 ## :bookmark_tabs: References
 
-- [1. ] [[1705.02315] ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases](https://arxiv.org/abs/1705.02315)
-
----
+- [1. ] [[1705.02315] ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases](https://arxiv.org/abs/1705.0231
