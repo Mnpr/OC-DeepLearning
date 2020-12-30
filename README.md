@@ -6,7 +6,7 @@ This repository contains Projectwork :arrow_down: undertaken for the partial ful
 
 - [x] Dataset Selection
 
-- [x] Exploration of Datasets
+- [x] [Exploration of Datasets](https://github.com/Mnpr/OC-DeepLearning/blob/main/ExplorationXray.ipynb)
 
 - [ ] Data Preprocessing
   
@@ -16,10 +16,10 @@ This repository contains Projectwork :arrow_down: undertaken for the partial ful
   
   - [ ] DataLoader
 
-- [ ] https://github.com/Mnpr/OC-DeepLearning/blob/main/Challenges.ipynb
+- [ ] Exploartion of Application Domain Challenges
   
-  - [x] Class Imabalance Problem
-  - [x] Patient Overlap
+  - [x] [Class Imabalance Problem](https://github.com/Mnpr/OC-DeepLearning/blob/main/ClassImbalance.ipynb)
+  - [x] [Patient Overlap](https://github.com/Mnpr/OC-DeepLearning/blob/main/PatientOverlap.ipynb)
   - [ ] Dataset size
 
 - [ ] Simple Classifier ( Binary )
