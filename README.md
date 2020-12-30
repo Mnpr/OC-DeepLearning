@@ -16,10 +16,10 @@ This repository contains Projectwork :arrow_down: undertaken for the partial ful
   
   - [ ] DataLoader
 
-- [ ] [Exploartion of Application Domain Challenges](https://github.com/Mnpr/OC-DeepLearning/blob/main/Challenges.ipynb)
+- [ ] https://github.com/Mnpr/OC-DeepLearning/blob/main/Challenges.ipynb
   
   - [x] Class Imabalance Problem
-  - [ ] Patient Overlap
+  - [x] Patient Overlap
   - [ ] Dataset size
 
 - [ ] Simple Classifier ( Binary )
