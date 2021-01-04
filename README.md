@@ -22,13 +22,15 @@ This repository contains Projectwork :arrow_down: undertaken for the partial ful
   - [x] [Patient Overlap](https://github.com/Mnpr/OC-DeepLearning/blob/main/PatientOverlap.ipynb)
   - [ ] Dataset size
 
-- [ ] Simple Classifier ( Binary )
+- [ ] Exploration of Evaluation Metrics
+
+- [ ] Binary Classifier
 
 - [ ] Multi-class Classifier
 
 - [ ] Transfer Learning
   
-  - [ ] Densenet 121
+  - [ ] Densenet-121
 
 - [ ] SOTA Candidate model Exploration
 
@@ -55,7 +57,7 @@ This repository contains Projectwork :arrow_down: undertaken for the partial ful
 - [NIH Clinical Center Chest x-ray datasets y | National Institutes of Health (NIH)](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community)
   
   - :arrow_down: [Download Here](https://nihcc.app.box.com/v/ChestXray-NIHCC)
-  - ⚠️ Incase of warning !! : `The selected item(s) exceed the download size limit.` [ Ref. Download @Instructions ]
+  - ⚠️ Incase of warning with Image folder !! :  run `python Utils/download.py`
 
 - ( Extension ) [V7Labs Covid-19 Chest X-ray Dataset](https://darwin.v7labs.com/v7-labs/covid-19-chest-x-ray-dataset/overview)
 
