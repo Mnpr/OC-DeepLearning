@@ -22,7 +22,7 @@ This repository contains Projectwork :arrow_down: undertaken for the partial ful
   - [x] [Patient Overlap](https://github.com/Mnpr/OC-DeepLearning/blob/main/PatientOverlap.ipynb)
   - [ ] Dataset size
 
-- [ ] Exploration of Evaluation Metrics
+- [x] [Exploration of Evaluation Metrics](https://github.com/Mnpr/OC-DeepLearning/blob/main/EvaluationMetrics.ipynb)
 
 - [ ] Binary Classifier
 
