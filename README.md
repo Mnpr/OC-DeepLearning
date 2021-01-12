@@ -63,8 +63,6 @@ This repository contains Projectwork :arrow_down: undertaken for the partial ful
   - :arrow_down: [Download Here](https://nihcc.app.box.com/v/ChestXray-NIHCC)
   - ⚠️ Incase of warning with Image folder !! :  run `python Utils/download.py`
 
-- ( Extension ) [V7Labs Covid-19 Chest X-ray Dataset](https://darwin.v7labs.com/v7-labs/covid-19-chest-x-ray-dataset/overview)
-
 ## :computer: Implementaition
 
 .
