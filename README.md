@@ -40,10 +40,6 @@ This repository contains Projectwork :arrow_down: undertaken for the partial ful
 
 **Objective :** To train and explore Deep learning models for Medical Radiology Assistance ( Classification and Detection of  Thorax Diseases) using Chest X-ray datasets.
 
-![](./Imgs/Male-thorax-region.png)
-
-[@Img: ](https://www.researchgate.net/publication/40686893_FASH_and_MASH_Female_and_Male_adult_human_phantoms_based_on_polygon_mesh_surfaces_I_Development_of_the_anatomy) [Male Thorax Region]
-
 ## :beginner: Index
 
 1. Datasets
