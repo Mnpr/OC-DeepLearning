@@ -3,7 +3,7 @@
 import os
 import urllib.request
 
-path = './Dataset/images/'
+path = '../Dataset/images/'
 
 if not os.path.exists(path):
     os.makedirs(path, exist_ok=True)
