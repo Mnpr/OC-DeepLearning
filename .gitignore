@@ -2,8 +2,10 @@
 __pycache__/
 
 
-# Datasets
-Dataset
+# Datasets, labels
+Datasets/images
+Datasets/images_subset
+labels
 
 # Configs, logs, and checkpoints
 .vscode/
