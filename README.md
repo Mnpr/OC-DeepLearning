@@ -55,10 +55,8 @@ This repository contains Projectwork :arrow_down: undertaken for the partial ful
   - [x]  Densenet-121
 
 - [ ]  Model Evaluation
-
-- [ ]  Hyperparameter-Tuning /Search
-
-- [ ]  Observations Collection
+  - [x] Subset Dataset
+  - [ ] Full Dataset
 
 - [ ]  Conclusion
 
