@@ -12,11 +12,7 @@ This repository contains Projectwork :arrow_down: undertaken for the partial ful
 
 2. Implementation
 
-3. Observation
-
-4. Conclusion
-
-5. References
+3. References
 
 ****
 
@@ -62,33 +58,8 @@ This repository contains Projectwork :arrow_down: undertaken for the partial ful
 
 - [x]  Local to Colab setup
 
-- [ ]  Conclusion
 
-
-
-**Future Ideas**
-
-- [ ] Model Server and Client Webapp ( Flask )
-
-- [ ] Localization + Auto Segmentation
-
-## :mag: 3. Observation
-
-.
-
-.
-
-.
-
-## :black_nib: 4. Conclusion
-
-.
-
-.
-
-.
-
-## :bookmark_tabs: 5. References
+## :bookmark_tabs: 3. References
 
 - [1. ] [ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases](https://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_ChestX-ray8_Hospital-Scale_Chest_CVPR_2017_paper.pdf)
 - [2. ] [ CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays [arXiv:1711.05225v3  [cs.CV]  25 Dec 2017]](https://arxiv.org/pdf/1711.05225.pdf)
