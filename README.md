@@ -64,3 +64,4 @@ This repository contains Projectwork :arrow_down: undertaken for the partial ful
 - [1. ] [ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases](https://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_ChestX-ray8_Hospital-Scale_Chest_CVPR_2017_paper.pdf)
 - [2. ] [ CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays [arXiv:1711.05225v3  [cs.CV]  25 Dec 2017]](https://arxiv.org/pdf/1711.05225.pdf)
 - [3.] [Densely Connected Convolutional Networks [arXiv:1608.06993v5 [cs.CV] 28 Jan 2018]](https://arxiv.org/pdf/1608.06993.pdf)
+- [4.] [Coursera - AI for medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis/home/welcome)
