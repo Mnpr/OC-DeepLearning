@@ -44,26 +44,21 @@ This repository contains Projectwork :arrow_down: undertaken for the partial ful
 - [x] Data Processing
   
   - [x] Data Preprocessing
-  
-  - [x] Image Data Genarator and Loader
+  - [x] Image Processing
+  - [x] Image Data Generator and Loaders
 
 - [x]  [Mnist-D CNN Multiclass-Classifier](https://github.com/Mnpr/OC-DeepLearning/blob/main/Documentation/MnistD_CNN.ipynb)
 
-- [ ]  Multi-label Binary Classifier ( Custom )
+- [x]  Multi-label Binary Classifier ( Custom )
 
-- [ ] Transfer Learning
-  
-  - [ ]  Densenet-121
+- [x] Transfer Learning
+  - [x]  Densenet-121
 
 - [ ]  Model Evaluation
-
-- [ ]  Hyperparameter-Tuning /Search
-
-- [ ]  Observations collection
+  - [x] Subset Dataset
+  - [ ] Full Dataset
 
 - [ ]  Conclusion
-
-- [ ]  Presentation
 
 
 
@@ -94,3 +89,4 @@ This repository contains Projectwork :arrow_down: undertaken for the partial ful
 ## :bookmark_tabs: 5. References
 
 - [1. ] [[1705.02315] ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases](https://arxiv.org/abs/1705.0231
+- [2. ] [ CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays [arXiv:1711.05225v3  [cs.CV]  25 Dec 2017]](https://arxiv.org/pdf/1711.05225.pdf)
