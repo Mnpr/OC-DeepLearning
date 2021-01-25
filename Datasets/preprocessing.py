@@ -11,7 +11,7 @@ img_shape = (256,256)
 img_paths = np.hstack(xray_df['img_paths'].values)
 print(img_paths.shape)
 
-path_list = os.listdir('./Datasets/dataset/')
+path_list = os.listdir('./Datasets/img_raw/')
 print(path_list)
 for dirs in path_list:
     os.makedirs(f'./Datasets/xray_preprocessed/{dirs}', exist_ok=True)
@@ -26,7 +26,7 @@ for img_path in img_paths :
     if  i % max(1, int(len(img_paths)/1000))==0: print(i, '/', len(img_paths))
         
     # save processed images to xray_preprocessed
-    new_path = img_path.replace('dataset', 'xray_preprocessed')
+    new_path = img_path.replace('img_raw', 'xray_preprocessed')
     img = plt.imread(img_path)
     img = color.rgb2gray(img)
     
