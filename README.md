@@ -1,6 +1,6 @@
 This repository contains Projectwork :arrow_down: undertaken for the partial fulfillment of Deep Learning Module and ETCS Creditpoints @OpenCampus.sh.
 
-# Medical Radiology Assistance ( Chest X-ray )
+# Thoractic disease Classification and Detection on Chest X-ray Images
 
 **Objective :** To train and explore Deep learning models for Medical Radiology Assistance ( Classification and Detection of  Thorax Diseases) using Chest X-ray datasets.
 
@@ -12,11 +12,7 @@ This repository contains Projectwork :arrow_down: undertaken for the partial ful
 
 2. Implementation
 
-3. Observation
-
-4. Conclusion
-
-5. References
+3. References
 
 ****
 
@@ -33,7 +29,7 @@ This repository contains Projectwork :arrow_down: undertaken for the partial ful
 
 - [x]  Exploration of Datasets
 
-- [x]  Exploartion of Application Domain and Challenges
+- [x]  Exploartion of Application Domain and Challenges [Concepts: @AI for medical Diagnosis (coursera)]
   
   - [x]  [Class Imabalance Problem](https://github.com/Mnpr/OC-DeepLearning/blob/main/Documentation/ClassImbalance.ipynb)
   - [x]  Patient Overlap
@@ -62,34 +58,11 @@ This repository contains Projectwork :arrow_down: undertaken for the partial ful
 
 - [x]  Local to Colab setup
 
-- [ ]  Conclusion
 
-
-
-**Future Ideas**
-
-- [ ] Model Server and Client Webapp ( Flask )
-
-- [ ] Localization + Auto Segmentation
-
-## :mag: 3. Observation
-
-.
-
-.
-
-.
-
-## :black_nib: 4. Conclusion
-
-.
-
-.
-
-.
-
-## :bookmark_tabs: 5. References
+## :bookmark_tabs: 3. References
 
 - [1. ] [ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases](https://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_ChestX-ray8_Hospital-Scale_Chest_CVPR_2017_paper.pdf)
 - [2. ] [ CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays [arXiv:1711.05225v3  [cs.CV]  25 Dec 2017]](https://arxiv.org/pdf/1711.05225.pdf)
 - [3.] [Densely Connected Convolutional Networks [arXiv:1608.06993v5 [cs.CV] 28 Jan 2018]](https://arxiv.org/pdf/1608.06993.pdf)
+- [4.] [Coursera - AI for medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis/home/welcome)
+- [5.] [Chest xray12 dataset problems : Single Radiologist Label Accuracy](https://lukeoakdenrayner.wordpress.com/2017/12/18/the-chestxray14-dataset-problems/)
