@@ -31,14 +31,12 @@ This repository contains Projectwork :arrow_down: undertaken for the partial ful
 
 **Status /Progress**
 
-- [x] Dataset Selection
+- [x]  Exploration of Datasets
 
-- [x] [Exploration of Datasets](https://github.com/Mnpr/OC-DeepLearning/blob/main/Documentation/ExplorationXray.ipynb)
-
-- [x] Exploartion of Application Domain and Challenges
+- [x]  Exploartion of Application Domain and Challenges
   
   - [x]  [Class Imabalance Problem](https://github.com/Mnpr/OC-DeepLearning/blob/main/Documentation/ClassImbalance.ipynb)
-  - [x]  [Patient Overlap](https://github.com/Mnpr/OC-DeepLearning/blob/main/Documentation/PatientOverlap.ipynb)
+  - [x]  Patient Overlap
   - [x]  [Explore Evaluation Metrics](https://github.com/Mnpr/OC-DeepLearning/blob/main/Documentation/EvaluationMetrics.ipynb)
 
 - [x] Data Processing
@@ -47,16 +45,22 @@ This repository contains Projectwork :arrow_down: undertaken for the partial ful
   - [x] Image Processing
   - [x] Image Data Generator and Loaders
 
-- [x]  [Mnist-D CNN Multiclass-Classifier](https://github.com/Mnpr/OC-DeepLearning/blob/main/Documentation/MnistD_CNN.ipynb)
+- [x]  [Mnist-D CNN Multiclass-Classifier](https://github.com/Mnpr/OC-DeepLearning/blob/main/CNN_Classifier_MnistD.ipynb)
 
-- [x]  Multi-label Binary Classifier ( Custom )
+- [x]  [`Multi-label Multi-Output` Classifier Subset  ](https://github.com/Mnpr/OC-DeepLearning/blob/main/CNN_Classifier_Subset.ipynb)
 
-- [x] Transfer Learning
-  - [x]  Densenet-121
+- [x]  [`Multi-label Multi-Output` Classifier Main](https://github.com/Mnpr/OC-DeepLearning/blob/main/CNN_Classifiers.ipynb)
 
-- [ ]  Model Evaluation
-  - [x] Subset Dataset
-  - [ ] Full Dataset
+- [x]  [Transfer Learning](https://github.com/Mnpr/OC-DeepLearning/blob/main/CNN_Classifiers.ipynb)
+  
+  - [x] Densenet-121
+
+- [ ] Model Evaluation
+  
+  - [x]  Subset Dataset
+  - [ ]  Full Dataset
+
+- [x]  Local to Colab setup
 
 - [ ]  Conclusion
 
@@ -64,11 +68,9 @@ This repository contains Projectwork :arrow_down: undertaken for the partial ful
 
 **Future Ideas**
 
-- [ ]  Model Server and Client Webapp ( Flask )
+- [ ] Model Server and Client Webapp ( Flask )
 
-- [ ]  Localization + Auto Segmentation
-
-
+- [ ] Localization + Auto Segmentation
 
 ## :mag: 3. Observation
 
@@ -88,5 +90,6 @@ This repository contains Projectwork :arrow_down: undertaken for the partial ful
 
 ## :bookmark_tabs: 5. References
 
-- [1. ] [[1705.02315] ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases](https://arxiv.org/abs/1705.0231
+- [1. ] [ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases](https://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_ChestX-ray8_Hospital-Scale_Chest_CVPR_2017_paper.pdf)
 - [2. ] [ CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays [arXiv:1711.05225v3  [cs.CV]  25 Dec 2017]](https://arxiv.org/pdf/1711.05225.pdf)
+- [3.] [Densely Connected Convolutional Networks [arXiv:1608.06993v5 [cs.CV] 28 Jan 2018]](https://arxiv.org/pdf/1608.06993.pdf)
