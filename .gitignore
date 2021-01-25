@@ -4,8 +4,8 @@ __pycache__/
 
 # Datasets, labels
 Datasets/images
-Datasets/images_subset
-labels
+Datasets/images-small
+Datasets/xray_preprocessed
 
 # Configs, logs, and checkpoints
 .vscode/
