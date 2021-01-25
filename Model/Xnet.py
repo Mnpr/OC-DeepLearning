@@ -77,15 +77,15 @@ class Xnet:
         model.add(Dropout(0.1))
         model.add(MaxPool2D(pool_size=(2, 2)))
 
-#         model.add(Conv2D(filters=256, kernel_size=(3, 3), padding='Same', activation='relu'))
-#         model.add(BatchNormalization())
-#         model.add(Dropout(0.1))
-#         model.add(MaxPool2D(pool_size=(2, 2)))
+        model.add(Conv2D(filters=256, kernel_size=(3, 3), padding='Same', activation='relu'))
+        model.add(BatchNormalization())
+        model.add(Dropout(0.1))
+        model.add(MaxPool2D(pool_size=(2, 2)))
 
-#         model.add(Conv2D(filters=256, kernel_size=(3, 3), padding='Same', activation='relu'))
-#         model.add(BatchNormalization())
-#         model.add(Dropout(0.1))
-#         model.add(MaxPool2D(pool_size=(2, 2)))
+        model.add(Conv2D(filters=256, kernel_size=(3, 3), padding='Same', activation='relu'))
+        model.add(BatchNormalization())
+        model.add(Dropout(0.1))
+        model.add(MaxPool2D(pool_size=(2, 2)))
 
         #dense block with activation function
         model.add(Flatten())
