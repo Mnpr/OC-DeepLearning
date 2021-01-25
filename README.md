@@ -29,7 +29,7 @@ This repository contains Projectwork :arrow_down: undertaken for the partial ful
 
 - [x]  Exploration of Datasets
 
-- [x]  Exploartion of Application Domain and Challenges
+- [x]  Exploartion of Application Domain and Challenges [Concepts: @AI for medical Diagnosis (coursera)]
   
   - [x]  [Class Imabalance Problem](https://github.com/Mnpr/OC-DeepLearning/blob/main/Documentation/ClassImbalance.ipynb)
   - [x]  Patient Overlap
@@ -65,3 +65,4 @@ This repository contains Projectwork :arrow_down: undertaken for the partial ful
 - [2. ] [ CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays [arXiv:1711.05225v3  [cs.CV]  25 Dec 2017]](https://arxiv.org/pdf/1711.05225.pdf)
 - [3.] [Densely Connected Convolutional Networks [arXiv:1608.06993v5 [cs.CV] 28 Jan 2018]](https://arxiv.org/pdf/1608.06993.pdf)
 - [4.] [Coursera - AI for medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis/home/welcome)
+- [5.] [Chest xray12 dataset problems : Single Radiologist Label Accuracy](https://lukeoakdenrayner.wordpress.com/2017/12/18/the-chestxray14-dataset-problems/)
