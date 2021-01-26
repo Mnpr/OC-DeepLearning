@@ -1,6 +1,6 @@
 This repository contains Projectwork :arrow_down: undertaken for the partial fulfillment of Deep Learning Module and ETCS Creditpoints @OpenCampus.sh.
 
-# Thoractic disease Classification and Detection on Chest X-ray Images
+# Thoractic disease Detection on Chest X-ray Images
 
 **Objective :** To train and explore Deep learning models for Medical Radiology Assistance ( Classification and Detection of  Thorax Diseases) using Chest X-ray datasets.
 
